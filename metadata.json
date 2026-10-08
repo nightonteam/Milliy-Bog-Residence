@@ -1,0 +1,6 @@
+{
+  "name": "Milliy Bog' Residence — Премиальный жилой комплекс в Ташкенте",
+  "description": "Жилой комплекс премиум-класса «Milliy Bog' Residence» в Ташкенте. Современная архитектура, панорамные виды, закрытый благоустроенный двор и рассрочка от застройщика. Bu yerda orzular ushaladi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
